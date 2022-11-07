@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlmatyApi", "Almaty1\AlmatyApi.csproj", "{6B27C23D-2D55-48A4-A1D2-6F005B089C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmatyApi.Tests", "AlmatyApi.Tests\AlmatyApi.Tests.csproj", "{90E1546D-533E-49DC-B20B-889935DD886F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B27C23D-2D55-48A4-A1D2-6F005B089C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B27C23D-2D55-48A4-A1D2-6F005B089C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B27C23D-2D55-48A4-A1D2-6F005B089C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B27C23D-2D55-48A4-A1D2-6F005B089C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E1546D-533E-49DC-B20B-889935DD886F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E1546D-533E-49DC-B20B-889935DD886F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E1546D-533E-49DC-B20B-889935DD886F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E1546D-533E-49DC-B20B-889935DD886F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E320DD-2D71-499B-876D-6740849CB419}
+	EndGlobalSection
+EndGlobal

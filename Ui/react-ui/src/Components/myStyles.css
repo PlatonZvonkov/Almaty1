@@ -1,0 +1,30 @@
+.primary{
+    color:rgb(33, 119, 199);
+}
+.flex-container {
+    display: flex;
+    background-color: #282c34;
+    align-items: normal;
+  }
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
+  }
+  label{
+    width: 200px;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    align-items: stretch;
+  }
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+    font-size: 20px;
+  }
